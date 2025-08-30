@@ -1919,7 +1919,7 @@ CODE:403-FORBIDDEN
 
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"  billed-msg="𝙒 𝙃 𝘼 𝙏 𝙎 𝘼 𝙋 𝙋  /  𝙏 𝙀 𝙇 𝙀 𝙂 𝙍 𝘼 𝙈 -  𝟬 𝟭 𝟭  𝟯 𝟭 𝟬 𝟵  𝟮 𝟲 𝟬 𝟱  (𝗔 𝗗 𝗠 𝗜 𝗡)"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://epg.pw/xmltv/epg_ID.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://i.mjh.nz/PlutoTV/us.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epg.pw/xmltv/epg_MY.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epg.pw/xmltv/epg_IN.xml.gz, https://epg.pw/xmltv/epg_PH.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://i.mjh.nz/SkySportNow/epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" billed-msg="𝙒 𝙃 𝘼 𝙏 𝙎 𝘼 𝙋 𝙋  /  𝙏 𝙀 𝙇 𝙀 𝙂 𝙍 𝘼 𝙈 -  𝟬 𝟭 𝟭  𝟯 𝟭 𝟬 𝟵  𝟮 𝟲 𝟬 𝟱  (𝗔 𝗗 𝗠 𝗜 𝗡)"
 
 #EXTINF:-1 tvg-id="Blank.Dummy.us" ch-number="100" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/fixerror.png" group-logo="https://raw.githubusercontent.com/ottgo/tvlogo/refs/heads/main/malaysialogo.png" group-title="MALAYSIA",PANDUAN PENGGUNA
 https://tunebox.space/Ifixerror.ts
@@ -1950,6 +1950,7 @@ https://tunebox.space/Itv2.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Itv3.mpd
 
 
@@ -1959,6 +1960,7 @@ https://tunebox.space/Itv3.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1119956
 https://tunebox.space/Iria.mpd
 
 
@@ -1996,6 +1998,7 @@ https://tunebox.space/Ifitrah.m3u
 
 
 #EXTINF:-1 ch-number="108" group-title="MALAYSIA" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/citra.png" tvg-id="108.astro",108 CITRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Icitra.ts
 
 
@@ -2182,6 +2185,7 @@ https://tunebox.space/Iawesometv.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Ijomngaji.mpd
 
 
@@ -2206,6 +2210,7 @@ https://tunebox.space/Ijomngaji.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Ifilemmantap.mpd
 
 
@@ -2213,6 +2218,7 @@ https://tunebox.space/Ifilemmantap.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Idramahebat.mpd
 
 
@@ -2224,6 +2230,7 @@ https://tunebox.space/Idramahebat.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Ilawaksentral.mpd
  
 
@@ -2232,6 +2239,7 @@ https://tunebox.space/Ilawaksentral.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="120.unifi" ch-number="135" tvg-logo="https://raw.githubusercontent.com/onIinerepo/lcon/refs/heads/main/degup.png",135 DEGUP 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Idegup.mpd
 
 
@@ -2279,6 +2287,7 @@ https://tunebox.space/Ivaanavil.mpd
 #EXTINF:-1 tvg-id="202.astro" ch-number="202" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vinmeen.png",202 VINMEEN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/IVinmeenfhd.mpd
 
 
@@ -2378,6 +2387,7 @@ https://tunebox.space/Izeetamil.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-number="241" tvg-id="241.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thangathirai.png",241 THANGATHIRAI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/IThangafhd.mpd
 
 
@@ -2403,6 +2413,7 @@ https://tunebox.space/IZeecinemafhd.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Idramahotpot.mpd
 
 #EXTINF:-1 tvg-id="300.astro" ch-number="300" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iqiyi.png" group-title="MALAYSIA",300 iQIYI
@@ -2423,6 +2434,7 @@ https://tunebox.space/Itvbclassic.mpd
 #EXTINF:-1 tvg-id="306.astro" ch-number="306" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aec.png" group-title="MALAYSIA",306 AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d66e2fe5f045426195d432802f9ba807:6fe283a6f1f3a3fb69f82c4340e0dde2
+http://php.jdshipin.com/smt.php?id=AEC
 https://tunebox.space/Iaec.mpd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 
@@ -2608,7 +2620,8 @@ https://tunebox.space/Ihitsmovies.mpd
 #EXTINF:-1 tvg-id="404.astro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/boo.png" group-title="MALAYSIA" ch-number="404",404 BOO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-https://tunebox.space/Iboo.mpd|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+https://tunebox.space/Iboo.mpd
 
 
 
@@ -2627,6 +2640,7 @@ https://tunebox.space/Iboo.mpd|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV07
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/IHbofhd.mpd
 
 
@@ -2638,6 +2652,7 @@ https://tunebox.space/IHbofhd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Icinemax.mpd
 
 #EXTINF:-1 tvg-id="413.astro" ch-number="413" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showcase.png" group-title="MALAYSIA", 413 SHOWCASE
@@ -2676,6 +2691,7 @@ https://tunebox.space/Ihbofamily.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/IHbohitsfhd.mpd
 
 
@@ -2894,6 +2910,7 @@ https://tunebox.space/Idreamworks.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Iohmyceria.mpd
 
 
@@ -3016,6 +3033,7 @@ https://tunebox.space/Iafn.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Itravel&taste.mpd
 
 
@@ -3085,6 +3103,7 @@ https://tunebox.space/Isukanrtm.m3u
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/IArenafhd.mpd
 
 
@@ -3119,6 +3138,7 @@ https://tunebox.space/IArena2fhd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1131941
 https://tunebox.space/Iarenabola.mpd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 
@@ -3183,6 +3203,7 @@ https://tunebox.space/Ipremierleague.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/955663.ts
 https://tunebox.space/Ipremierleague2.mpd
 
 
@@ -3209,6 +3230,7 @@ https://tunebox.space/Ibadminton.mpd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux 
 #EXTINF:-1 tvg-id="816.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/badminton.png" ch-number="816",816 BADMINTON 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/Ibadminton2.mpd
 
 
@@ -3237,6 +3259,7 @@ https://tunebox.space/Isportsplus.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=323148d9bf4d481fbbc8067bc227960c:5f4c296e4c543b2c750ba48c2302cec4
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/IBein1fhd.mpd
 
 
@@ -3254,6 +3277,7 @@ https://tunebox.space/IBein1fhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=9b9f474f9bd54708809e3a37306d4832:25bb473ed8915a04ee5e755b40c92508
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/IBein2fhd.mpd
 
 
@@ -3273,6 +3297,7 @@ https://tunebox.space/IBein2fhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=124ee769c9914114863c46b9c452a56c:401d3f2fb9e6a5954683fa51d5479041
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/IBein3fhd.mpd
 
 
@@ -3293,6 +3318,7 @@ https://tunebox.space/IBein3fhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=f8ba099617e54815b4fa03bf66d5bbbb:05ed9f1bc2c6932e9d81eec68446284e
 #KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/ISpotvfhd.mpd
 
 
@@ -3313,6 +3339,7 @@ https://tunebox.space/ISpotvfhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=3ab8212f605c457c912411400188abea:d4e380872c8ea966b94561658a6f3697
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://tunebox.space/ISpotv2fhd.mpd
 
 
@@ -3378,6 +3405,7 @@ https://tunebox.space/Istarvijay.mpd
 
 
 #EXTINF:-1 tvg-id="306.astro" ch-number="306" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aec.png" group-title="ENTERTAINMENT",AEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 http://php.jdshipin.com/smt.php?id=AEC
 
 
@@ -5017,7 +5045,9 @@ https://tunebox.shop/promo2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1119956
+https://tunebox.space/Iria.mpd
 
 
 
@@ -6548,6 +6578,7 @@ https://tunebox.space/IArena2fhd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1131941
 https://tunebox.space/Iarenabola.mpd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 
@@ -6603,6 +6634,7 @@ https://tunebox.space/Igrandstand.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
+https://tunebox.space/premierleague.m3u8
 https://tunebox.space/Ipremierleague.mpd
 
 
@@ -6612,6 +6644,7 @@ https://tunebox.space/Ipremierleague.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
+http://bestp55.xyz:80/live/A7FC77529786/519C32219872/955663.ts
 https://tunebox.space/Ipremierleague2.mpd
 
 
