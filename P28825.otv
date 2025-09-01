@@ -2759,11 +2759,11 @@ https://tunebox.space/Ijunior.m3u
 
 
 
-#EXTINF:-1 coded="hard" tvg-id="611.astro" ch-number="611" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ceria.png", 611 CERIA
+##EXTINF:-1 coded="hard" tvg-id="611.astro" ch-number="611" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ceria.png", 611 CERIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
-https://tunebox.space/Iceria.mpd|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
+#https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
+#https://tunebox.space/Iceria.mpd|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
 
 
 
@@ -2969,15 +2969,6 @@ https://tunebox.space/Iarena.mpd
 
 
 
-#EXTINF:-1 coded="hard" tvg-id="801.astro" ch-number="801" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arena.png" group-title="MALAYSIA", ARENA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-https://tunebox.space/IArenafhd.mpd
-
 
 
 
@@ -2990,13 +2981,6 @@ https://tunebox.space/IArenafhd.mpd
 https://tunebox.space/Iarena2.mpd
 
 
-#EXTINF:-1 coded="hard" tvg-id="802.astro" ch-number="802" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arena2.png" group-title="MALAYSIA",ARENA 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://tunebox.space/IArena2fhd.mpd
 
 
 
@@ -3173,27 +3157,11 @@ https://tunebox.space/Ispotv.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://tunebox.space/Ispotv2.mpd
 
-#EXTINF:-1 coded="hard" ch-number="823" tvg-id="823.astro" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv.png",823 SPOTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=f8ba099617e54815b4fa03bf66d5bbbb:05ed9f1bc2c6932e9d81eec68446284e
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-https://tunebox.space/ISpotvfhd.mpd
 
 
-#EXTINF:-1 coded="hard" tvg-id="824.astro" ch-number="824" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv2.png",824 SPOTV 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=3ab8212f605c457c912411400188abea:d4e380872c8ea966b94561658a6f3697
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-https://tunebox.space/ISpotv2fhd.mpd
 
 
-#EXTINF:-1 coded="hard" tvg-id="824.astro" ch-number="824" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cricket.png",825 CRICKET
+#EXTINF:-1 coded="hard" tvg-id="825.astro" ch-number="824" group-title="MALAYSIA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cricket.png",825 CRICKET
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3258,6 +3226,7 @@ https://tunebox.space/Istarvijay.mpd
 #EXTINF:-1 coded="hard" tvg-id="306.astro" ch-number="306" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aec.png" group-title="ENTERTAINMENT",AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d66e2fe5f045426195d432802f9ba807:6fe283a6f1f3a3fb69f82c4340e0dde2
+http://php.jdshipin.com/smt.php?id=AEC
 https://tunebox.space/Iaec.mpd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 
@@ -5909,7 +5878,7 @@ https://tunebox.space/Ijunior.m3u
 
 
 
-#EXTINF:-1 coded="hard" tvg-id="611.astro" ch-number="611" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ceria.png",CERIA
+##EXTINF:-1 coded="hard" tvg-id="611.astro" ch-number="611" group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ceria.png",CERIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
@@ -6386,13 +6355,6 @@ https://tunebox.space/Iarena.mpd
 
 
 
-#EXTINF:-1 coded="hard" tvg-id="801.astro" ch-number="801" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arena.png" group-title="SPORTS", ARENA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=6eb2578e2bf9476a92d17f5dd1d2590d:a7239ce27d1a60592f60b5c02f214331
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://tunebox.space/IArenafhd.mpd
 
 
 
@@ -6406,13 +6368,6 @@ https://tunebox.space/IArenafhd.mpd
 https://tunebox.space/Iarena2.mpd
 
 
-#EXTINF:-1 coded="hard" tvg-id="802.astro" ch-number="802" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arena2.png" group-title="SPORTS",ARENA 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=03768503343f451faa1b1f1f3d33b463:29e3bf0c0910c77bf0fcf8b30ebcd256
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://tunebox.space/IArena2fhd.mpd
 
 
 
@@ -6492,7 +6447,6 @@ https://tunebox.space/Ipremierleague.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ecad9adae8f44f0b1c8bf5c492da613:43ac85382893194802f0d34dbf71059e
-http://bestp55.xyz:80/live/A7FC77529786/519C32219872/955663.ts
 https://tunebox.space/Ipremierleague2.mpd
 
 
@@ -6534,11 +6488,6 @@ https://tunebox.space/Isportsplus.mpd
 
 
 
-#EXTINF:-1 coded="hard" tvg-id="820.astro" ch-number="820" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein.png" group-title="SPORTS",820 BEIN SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/Ibein.mpd
 
 
 #EXTINF:-1 coded="hard" tvg-id="820.astro" ch-number="820" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein.png" group-title="SPORTS",820 BEIN SPORTS 1
@@ -6549,14 +6498,6 @@ https://tunebox.space/Ibein.mpd
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 https://tunebox.space/IBein1fhd.mpd
 
-
-
-
-#EXTINF:-1 coded="hard" tvg-id="821.astro" ch-number="821" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein2.png" group-title="SPORTS",821 BEIN SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/Ibein2.mpd
 
 #EXTINF:-1 coded="hard" tvg-id="821.astro" ch-number="821" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein2.png" group-title="SPORTS",821 BEIN SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6570,11 +6511,6 @@ https://tunebox.space/IBein2fhd.mpd
 
 
 
-#EXTINF:-1 coded="hard" tvg-id="822.astro" ch-number="822.astro" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein3.png",822 BEIN SPORTS 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://tunebox.space/Ibein3.mpd
 
 
 #EXTINF:-1 coded="hard" tvg-id="822.astro" ch-number="822.astro" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein3.png",822 BEIN SPORTS 3
@@ -6597,13 +6533,7 @@ https://tunebox.space/Ispotv.mpd
 
 
 
-#EXTINF:-1 coded="hard" ch-number="823" tvg-id="823.astro" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv.png",823 SPOTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=f8ba099617e54815b4fa03bf66d5bbbb:05ed9f1bc2c6932e9d81eec68446284e
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://tunebox.space/ISpotvfhd.mpd
+
 
 
 
@@ -6616,14 +6546,6 @@ https://tunebox.space/Ispotv2.mpd
 
 
 
-
-#EXTINF:-1 coded="hard" tvg-id="824.astro" ch-number="824" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv2.png",824 SPOTV 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=3ab8212f605c457c912411400188abea:d4e380872c8ea966b94561658a6f3697
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://tunebox.space/ISpotv2fhd.mpd
 
 
 #EXTINF:-1 coded="hard" tvg-id="824.astro" ch-number="824" group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv2.png",825 CRICKET
